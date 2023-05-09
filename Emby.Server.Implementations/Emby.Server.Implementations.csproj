@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
     <ProjectReference Include="..\Emby.Naming\Emby.Naming.csproj" />
@@ -32,7 +32,7 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.2.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="2.2.0" />
     <PackageReference Include="ServiceStack.Text.Core" Version="5.5.0" />
-    <PackageReference Include="sharpcompress" Version="0.23.0" />
+    <PackageReference Include="sharpcompress" Version="0.29.0" />
     <PackageReference Include="SQLitePCL.pretty.netstandard" Version="1.0.0" />
   </ItemGroup>
 
